@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-[![Milkbottlelough's GitHub stats](https://github-readme-stats.vercel.app/api?username=milkbottlelough)](https://github.com/milkbottlelough)
 
 <!--
 **milkbottlelough/milkbottlelough** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
